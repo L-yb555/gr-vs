@@ -45,7 +45,7 @@ In this exercise, you will:
 
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
-   <a id="start-exercise" href="https://github.com/L-yb555/gesture-recognition-to-github/issues/1">
+   <a id="start-exercise" href="https://github.com/L-yb555/gr-vs/issues/1" href="https://github.com/L-yb555/gesture-recognition-to-github/issues/1">
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
 
